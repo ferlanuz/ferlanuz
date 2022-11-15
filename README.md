@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 🛠️ **Languages and Tools**
 
 Of course all are focused on Frontend 😄
+
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,firebase,git,github,nodejs,vscode,figma)](https://skillicons.dev)
 
 [![Fer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferlanuz&show_icons=true&theme=cobalt&layout=compact)](https://github.com/ferlanuz/github-readme-stats)
