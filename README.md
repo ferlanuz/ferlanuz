@@ -25,4 +25,8 @@ Of course all are focused on Frontend 😄
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,firebase,git,github,nodejs,vscode,figma)](https://skillicons.dev)
 
+💬 **Let's chat**
+
+[LinkedIn](https://img.shields.io/static/v1?label=<LinkedIn>&message=<MESSAGE>&color=<blue>)
+
 [![Fer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferlanuz&show_icons=true&theme=cobalt&layout=compact)](https://github.com/ferlanuz/github-readme-stats)
