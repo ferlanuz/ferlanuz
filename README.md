@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 [Gmail](https://mail.google.com/mail/u/0/?pli=1#inbox?compose=DmwnWrRpdlxNPLnWvBbLwlbLBSZLRNnPjtxskCfHnTRSFwKlzhfRBRmKwvxgNZTwCdlxgXsPSXkL)
 - ☕ Coffee Lover ✨  
 - ⚡ Fun fact: I'm a secret makeup artist 💄
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
