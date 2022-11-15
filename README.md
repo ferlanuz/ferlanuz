@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ☕ Coffee Lover ✨  
 - ⚡ Fun fact: I'm a secret makeup artist 💄
 
-[![Fer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferlanuz&show_icons=true&theme=cobalt)](https://github.com/ferlanuz/github-readme-stats)
+[![Fer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferlanuz&show_icons=true&theme=cobalt&layout=compact)](https://github.com/ferlanuz/github-readme-stats)
