@@ -9,6 +9,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 💬 **Let's chat**
+📱 **Contact**
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 -->
 💡‍ **About**
 
@@ -27,9 +30,7 @@ Of course all are focused on Frontend 😄
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,firebase,git,github,nodejs,vscode,figma)](https://skillicons.dev)
 
-📱 **Contact**
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
 
