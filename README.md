@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 - ☕ Coffee Lover ✨  
 - ⚡ Fun fact: I'm a secret makeup artist 💄
 
-🛠️ Languages and Tools
+🛠️ **Languages and Tools**
+
 Of course all are focused on Frontend 😄
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,firebase,git,github,nodejs,vscode,figma)](https://skillicons.dev)
 
