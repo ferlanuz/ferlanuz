@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
-💡‍ *About*
+💡‍ **About**
 - 🔭 I’m currently working on something special ✨
 - 🌱 I’m currently learning React.js ✨
 - 📫 How to reach me: 
@@ -18,5 +18,9 @@ Here are some ideas to get you started:
 [Gmail](https://mail.google.com/mail/u/0/?pli=1#inbox?compose=DmwnWrRpdlxNPLnWvBbLwlbLBSZLRNnPjtxskCfHnTRSFwKlzhfRBRmKwvxgNZTwCdlxgXsPSXkL)
 - ☕ Coffee Lover ✨  
 - ⚡ Fun fact: I'm a secret makeup artist 💄
+
+🛠️ Languages and Tools
+Of course all are focused on Frontend 😄
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,firebase,git,github,nodejs,vscode,figma)](https://skillicons.dev)
 
 [![Fer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferlanuz&show_icons=true&theme=cobalt&layout=compact)](https://github.com/ferlanuz/github-readme-stats)
