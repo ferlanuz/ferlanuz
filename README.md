@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
-💡‍ About
+💡‍ *About*
 - 🔭 I’m currently working on something special ✨
 - 🌱 I’m currently learning React.js ✨
 - 📫 How to reach me: 
