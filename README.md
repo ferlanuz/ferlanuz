@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 💬 **Let's chat**
 -->
 💡‍ **About**
+
+I'm Fernanda, Frontend Developer 
 - 🔭 I’m currently working on something special ✨
 - 🌱 I’m currently learning React.js ✨
 - 📫 How to reach me: 
@@ -24,6 +26,8 @@ Here are some ideas to get you started:
 Of course all are focused on Frontend 😄
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,firebase,git,github,nodejs,vscode,figma)](https://skillicons.dev)
+
+[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 
