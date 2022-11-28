@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernanda</h1>
-<h3 align="center">A frontend developer from Mexico</h3>
+<h3 align="center">A frontend developer from Mexico and I love everything we can create through technology. At first I wasn't sure if Web Development would be for me and thanks to a very special person, I decided to take the leap. Today I have started a journey towards the unpredictable, where I can bring an idea to life, analyze a problem, create and optimize solutions, share knowledge and all using only a computer, my mind and accompanying them of course with a good cup of coffee.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferlanuz&label=Profile%20views&color=0e75b6&style=flat" alt="ferlanuz" /> </p>
 
@@ -13,7 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/ferlanuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ferlanuz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fernandalanuz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fernandalanuz/" height="30" width="40" /></a>
+<a href="https://fb.com/fer lanuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fer lanuz" height="30" width="40" /></a>
+<a href="https://instagram.com/fer_lanuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fer_lanuz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,9 +26,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferlanuz&show_icons=true&locale=en" alt="ferlanuz" /></p>
 
-
-
-
-
-
-[![Fer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferlanuz&show_icons=true&theme=cobalt&layout=compact)](https://github.com/ferlanuz/github-readme-stats)
