@@ -4,7 +4,7 @@ Passionate about developing intuitive and efficient user interfaces, with a focu
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferlanuz&label=Profile%20views&color=0e75b6&style=flat" alt="ferlanuz" /> </p>
 
-- 🔭 I’m currently working on **something special**
+- 🔭 I’m currently working at **Leadventure**
 
 - 🌱 I’m currently learning **React.js**
 
