@@ -6,7 +6,7 @@ Passionate about developing intuitive and efficient user interfaces, with a focu
 
 - 🔭 I’m currently working at **Leadventure**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Salesforce**
 
 - 📫 How to reach me **ferlaranuz@gmail.com**
 
