@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fernanda</h1>
-<h3 align="center">A frontend developer from Mexico and I love everything we can create through technology. At first I wasn't sure if Web Development would be for me and thanks to a very special person, I decided to take the leap. Today I have started a journey towards the unpredictable, where I can bring an idea to life, analyze a problem, create and optimize solutions, share knowledge and all using only a computer, my mind and accompanying them of course with a good cup of coffee.</h3>
+<h3 align="center">Front-End Developer with experience in building and maintaining optimized websites.
+Passionate about developing intuitive and efficient user interfaces, with a focus on continuous improvement and technological innovation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferlanuz&label=Profile%20views&color=0e75b6&style=flat" alt="ferlanuz" /> </p>
 
